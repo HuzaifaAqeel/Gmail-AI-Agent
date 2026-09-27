@@ -1,0 +1,17 @@
+[
+  {
+    "subject": "Your receipt from Acme Cloud (#INV-2026-0917)",
+    "from": "billing@acmecloud.example",
+    "body": "Thanks for your payment of $49.00 for the Pro plan. Invoice INV-2026-0917 is attached. Next billing date: October 17, 2026."
+  },
+  {
+    "subject": "New comment on your video",
+    "from": "noreply@youtube.example",
+    "body": "A viewer commented on your video 'Building RAG apps with Gemini': 'Great tutorial! Can you cover reranking next?'"
+  },
+  {
+    "subject": "Action required: approve Q4 budget by Friday",
+    "from": "manager@example.com",
+    "body": "Hi, please review and approve the Q4 marketing budget draft before Friday 5pm. Let me know if you have questions."
+  }
+]
